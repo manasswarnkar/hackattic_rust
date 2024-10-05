@@ -1,0 +1,10 @@
+// pub mod mini_miner;
+pub mod help_me_unpack;
+// pub mod tales_of_ssl;
+// pub mod dockerized_solutions;
+// pub mod password_hashing;
+// pub mod touch_tone_dialing;
+// pub mod basic_face_detection;
+// pub mod the_redis_one;
+// pub mod visual_basic_math;
+pub mod reading_qr;
